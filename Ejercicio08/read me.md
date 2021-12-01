@@ -1,4 +1,4 @@
-Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código:
+## Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código:
 
 Los lenguajes compilados son aquellos que para que los lea un ordenador antes deben convertirse al lenguaje de máquina,
 esto es posible gracias al proceso de compilación.
