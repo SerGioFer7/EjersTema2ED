@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AritmeticaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T20:50:31" hostname="sergio-VirtualBox" time="0.001">
-  <properties/>
-  <testcase name="testSuma" classname="AritmeticaTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
