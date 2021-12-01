@@ -1,3 +1,6 @@
+## Investiga y averigua qué extensión tienen los archivos de código fuente de los
+## siguientes lenguajes:
+
 bash, extensión .sh o .bash
 
 python, extensión .PY
