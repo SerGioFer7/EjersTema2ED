@@ -1,3 +1,6 @@
+## Bibliotecas. Busca información y explica las ventajas y desventajas de usar
+## bibliotecas estáticas.
+
 Ventajas de las bibliotecas estáticas:
 
 No es necesario proporcionar las bibliotecas correspondientes al publicar el programa.
