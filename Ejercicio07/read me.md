@@ -1,4 +1,4 @@
-Como instalar en ubuntu los siguientes lenguajes:
+## Como instalar en ubuntu los siguientes lenguajes:
 
 python: sudo apt-get install python3
 
